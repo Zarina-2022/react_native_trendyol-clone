@@ -23,6 +23,7 @@
 
 ## Screenshots
 
-![Push Notification Example](pushNotification.png)
+![Push Notification Example](pushNotificationIOS.png)
 ![Login Screen Animation](Login.gif)
 ![Trendyol App GIF](trendyol.gif)
+![Trendyol App GIF](categories.gif)

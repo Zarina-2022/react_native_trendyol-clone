@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952472982570",
+    "project_id": "mapnotes-290b8",
+    "storage_bucket": "mapnotes-290b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952472982570:android:7a850bf918d905dd1b9f53",
+        "android_client_info": {
+          "package_name": "com.trendyolclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOqNE02sFlDZgNRCmw1NG-wk00d7sMaNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

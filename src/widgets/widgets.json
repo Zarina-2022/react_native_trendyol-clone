@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "component": "Categories",
+    "title": "Categories"
+  },
+  {
+    "id": 2,
+    "component": "Introduction",
+    "title": "Introduction"
+  },
+  {
+    "id": 3,
+    "component": "Special",
+    "title": "Zarina, here are special products for you"
+  },
+  {
+    "id": 4,
+    "component": "BestSeller",
+    "title": "Bestsellers"
+  },
+  {
+    "id": 5,
+    "component": "NewArrivals",
+    "title": "Discover our new trend"
+  }
+]

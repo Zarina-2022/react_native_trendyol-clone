@@ -1,0 +1,10 @@
+export const BASE_URL = 'https://fakestoreapi.com/';
+export const PRODUCTS_URL = 'products';
+export const NEW_ARRIVAL_PRODUCTS_URL = "products/category/women's clothing";
+export const BESTSELLER_PRODUCTS_URL = 'products/category/jewelery';
+export const CATEGORY_URL = 'products/category';
+export const CATEGORIES_URL = 'products/categories';
+export const CART_URL = 'carts/user';
+export const UPDATE_CART_URL = 'carts';
+export const LOGIN_URL = 'auth/login';
+export const USER_URL = 'users';

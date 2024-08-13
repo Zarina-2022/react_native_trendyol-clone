@@ -11,10 +11,10 @@ import messaging from '@react-native-firebase/messaging';
 // Your Firebase configuration
 const firebaseConfig = {
     apiKey: '',
-    projectId: 'mapnotes-290b8',
-    storageBucket: 'mapnotes-290b8.appspot.com',
-    messagingSenderId: "952472982570",
-    appId: '1:952472982570:android:7a850bf918d905dd1b9f53',
+    projectId: '',
+    storageBucket: '',
+    messagingSenderId: "",
+    appId: '',
   };
   
   // Initialize Firebase
